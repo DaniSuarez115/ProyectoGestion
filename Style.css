@@ -26,7 +26,7 @@ h2{
 }
 #parrafo{
     font-family: 'Delicious Handrawn',cursive;
-    background-color: rgb(44, 65, 219);
+    background-color: rgb(30, 51, 215);
     height: 180px;
     box-shadow: 10px 5px 5px black;
     font-size: 30px;
@@ -84,4 +84,11 @@ h2{
 }
 #impacto:hover{
     font-size: 52px;
+}
+.parrafoModal{
+    font-size: 25px;
+    font-family: 'Delicious Handrawn',cursive;
+}
+.contenedorImgModal{
+    box-shadow: 10px 5px 5px black;
 }
